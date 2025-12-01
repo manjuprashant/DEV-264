@@ -1,0 +1,16 @@
+
+{
+    {
+          "path": "nomad/jobs/n8n",
+          "namespace": "default",
+          "items": {
+          "mariadb_host": "10.1.2.3",
+          "mariadb_port": "3306",
+          "mariadb_name": "n8nprod",
+          "mariadb_user": "n8n_user",
+          "mariadb_password": "REDACTED",
+          "n8n_basic_auth_user": "admin",
+          "n8n_basic_auth_password": "REDACTED",
+          "n8n_timezone": "UTC"
+    }
+}
